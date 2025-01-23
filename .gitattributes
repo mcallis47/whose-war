@@ -1,0 +1,2 @@
+Binaries_x/Win64/WhoseWar.pdb filter=lfs diff=lfs merge=lfs -text
+Content/Weapons/M9A1_Rifle_Grenade.uasset filter=lfs diff=lfs merge=lfs -text
